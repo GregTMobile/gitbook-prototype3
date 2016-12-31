@@ -1,10 +1,9 @@
 {
     "variables": {
-        "edition": "instructor",
+        "edition": "student",
         "slides": false,
         "outputContent": [
             "content",
-            "notes"
         ]
     },
     "plugins": [
