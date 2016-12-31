@@ -1,6 +1,6 @@
 {
     "variables": {
-        "edition": "instructor",
+        "edition": "master",
         "slides": false,
         "outputContent": [
             "content",
